@@ -1,6 +1,6 @@
 ### Hi there 👋
-my name is Valdecir
-I have 15 years
+my name is Valdecir,
+I have 15 years,
 There's a person who doesn't want to forgive me
 <!--
 **lolidaquebrada/lolidaquebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
