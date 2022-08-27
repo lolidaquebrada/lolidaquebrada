@@ -7,8 +7,8 @@ There's a person who doesn't want to forgive me.
 
 recomendo assistir o filme até o último homem.
 
-o choro pode durar uma noite mas a alegria vem pela manhã. 
-<!--
+sou um ectomorfo que faz Single Track. 
+<!-
 **loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
