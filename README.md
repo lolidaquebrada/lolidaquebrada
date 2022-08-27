@@ -8,11 +8,10 @@ There's a person who doesn't want to forgive me.
 recomendo assistir o filme até o último homem.
 
 sou um ectomorfo que faz Single Track. 
-<!-
-**loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
+**loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears n your GitHub profile.
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on in Bagueteria
 - 🌱 I’m currently learning I can't say
 - 👯 I’m looking to collaborate on help
@@ -20,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns:he, she, him, hers
-- ⚡ Fun fact:imitate loli
--->
+- ⚡ Fun fact:imitate loli.
