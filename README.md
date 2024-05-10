@@ -1,13 +1,12 @@
 ### Hello everyone.
 my name is Valdecir.
 
-I have 15 years.
+I have 16 years.
 
-There's a person who doesn't want to forgive me.
+There's a person who doesn't want to forgive me. this person forgave me!!
 
 recomendo assistir o filme até o último homem.
 
-sou um ectomorfo que faz Single Track. 
 <!--
 **loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears n your GitHub profile.
 Here are some ideas to get you started:
@@ -20,10 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns:he, she, him, hers
 - ⚡ Fun fact:imitate loli.
-### Hi,  👋
-
-<div align="center">
-  <a href="https://github.com/lolidaquebrada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lolidaquebrada&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolidaquebrada&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
