@@ -10,11 +10,10 @@ There's a person who doesn't want to forgive me. this person forgave me!!And now
 **loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears n your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on in FERRAMENTAS STA
-- 🌱 I’m currently learning I can't say
-- 👯 I’m looking to collaborate on help
-- 🤔 I’m looking for help with in nothing
+I am currently working at FERRAMENTAS STA
+- 🌱 I'm currently learning, I can't say
+- 👯 I try to collaborate in helping
+- 🤔 I'm looking for help for nothing
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns:he, she, him, hers
-- ⚡ Fun fact:imitate loli.
+- 😄 Pronouns: he, she, him, her
+- ⚡ Fun fact: imitate loli.
