@@ -1,11 +1,10 @@
 ### Hello everyone.
 my name is Valdecir.
 
-I have 16 years.
+I have 17 years.
 
-There's a person who doesn't want to forgive me. this person forgave me!!
+There's a person who doesn't want to forgive me. this person forgave me!!And now she's my girlfriend!!!!
 
-recomendo assistir o filme até o último homem.
 
 <!--
 **loli da quebrada/loli da quebrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears n your GitHub profile.
